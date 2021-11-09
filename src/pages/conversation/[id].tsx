@@ -133,7 +133,7 @@ export const ConversationPage = ({
       </Snackbar>
       <AppBar position="fixed">
         <Toolbar variant="dense">
-          <Link href="/conversations">
+          <Link href="/">
             <IconButton edge="start" color="inherit" aria-label="menu" sx={{ mr: 2 }}>
               <ArrowBack />
             </IconButton>
